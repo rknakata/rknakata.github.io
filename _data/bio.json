@@ -2,7 +2,7 @@
   "basics": {
     "name": "Ryan Nakata",
     "label": "Student",
-    "picture": "https://rknakata.github.io/template/images/portfolio.jpg",
+    "picture": "http://uploads.shanatan.moe/uscssm.jpg",
     "email": "rknakata@hawaii.edu",
     "phone": "808-782-3179",
     "website": "https://rknakata.github.io",
@@ -42,7 +42,9 @@
       "name": "internet of things",
       "keywords": [
         "Arduino",
-        "TI MSP430"
+        "RaspberryPi",
+        "Bitcoin",
+        "3DPrinting"
       ]
     },
     {
@@ -70,8 +72,7 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "RaspberryPi"
+        "Git/GitHub"
       ]
     }
   ],
@@ -80,7 +81,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2014-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -89,11 +90,11 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Curry House",
+      "position": "Cook",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
+      "startDate": "2015-03-021",
+      "endDate": "2016-09-14",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
