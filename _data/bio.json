@@ -2,11 +2,11 @@
   "basics": {
     "name": "Ryan Nakata",
     "label": "Student",
-    "picture": "http://uploads.shanatan.moe/uscssm.jpg",
+    "picture": "https://rknakata.github.io/images/portfolio.png",
     "email": "rknakata@hawaii.edu",
     "phone": "808-782-3179",
     "website": "https://rknakata.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "801 South St.",
       "postalCode": "96813",
@@ -39,24 +39,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "DIY Maker",
       "keywords": [
         "Arduino",
         "RaspberryPi",
-        "Bitcoin",
         "3DPrinting"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Entepeneurship",
       "keywords": [
+        "Bitcoin",
       ]
     },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
   ],
   "skills": [
     {
@@ -79,12 +74,13 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
       "startDate": "2014-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "2.9",
       "courses": [
+        "ICS"
       ]
     }
   ],
@@ -95,9 +91,9 @@
       "website": "",
       "startDate": "2015-03-021",
       "endDate": "2016-09-14",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Chef",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
+        "Restock, clean, and manage the kitchen",
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },
