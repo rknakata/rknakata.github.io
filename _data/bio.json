@@ -6,7 +6,7 @@
     "email": "rknakata@hawaii.edu",
     "phone": "808-782-3179",
     "website": "https://rknakata.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2019.",
+    "summary": "I am studying for a B.A. in Computer Science (Security Science Focus) in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "801 South St.",
       "postalCode": "96813",
@@ -20,6 +20,7 @@
         "username": "rknakata",
         "url": "http://github.com/rknakata"
       },
+      /*
       {
         "network": "linkedin",
         "username": "mollymaluhia",
@@ -35,6 +36,7 @@
         "username": "molly",
         "url": "http://instagram.com/changeme"
       }
+      */
     ]
   },
   "interests": [
@@ -43,13 +45,12 @@
       "keywords": [
         "Arduino",
         "RaspberryPi",
-        "3DPrinting"
+        "3D Printing"
       ]
     },
     {
-      "name": "Entepeneurship",
+      "name": "software engineering",
       "keywords": [
-        "Bitcoin",
       ]
     },
   ],
@@ -58,15 +59,18 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Java"
+        "Java",
+        "Ruby"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
+        "MacOS",
+        "Windows",
+        "Command Line",
         "Git/GitHub"
       ]
     }
@@ -74,9 +78,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2019)",
-      "studyType": "B.S.",
-      "startDate": "2014-09-01",
+      "area": "Computer Science (expected Spring, 2020)",
+      "studyType": "B.A.",
+      "startDate": "2014-08-25",
       "endDate": "Present",
       "gpa": "2.9",
       "courses": [
@@ -87,11 +91,11 @@
   "work": [
     {
       "company": "Curry House",
-      "position": "Cook",
+      "position": "Kitchen",
       "website": "",
       "startDate": "2015-03-021",
       "endDate": "2016-09-14",
-      "summary": "Chef",
+      "summary": "Cook",
       "highlights": [
         "Restock, clean, and manage the kitchen",
         "Drive, design and build student-community projects for UH Manoa"
