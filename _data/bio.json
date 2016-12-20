@@ -43,7 +43,9 @@
       "level": "",
       "keywords": [
         "Java",
-        "Ruby"
+        "Ruby",
+        "Command Line",
+        "Git/GitHub"
       ]
     },
     {
@@ -52,9 +54,7 @@
       "keywords": [
         "Ubuntu",
         "MacOS",
-        "Windows",
-        "Command Line",
-        "Git/GitHub"
+        "Windows"
       ]
     }
   ],
