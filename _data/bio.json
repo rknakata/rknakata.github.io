@@ -71,6 +71,30 @@
       ]
     }
   ],
+  
+  
+  
+    "Clubs": [
+    {
+      "organization": "UHM Greyhats",
+      "website": "https://github.com/uhmgreyhats",
+      "summary": "Grey Hats from The University of Hawaii at Manoa",
+      "highlights": [
+        "Cover topics about current and future cyber security news",
+        "Converse with other students that share the same interests"
+      ]
+    },
+    {
+      "organization": "ACM Manoa",
+      "website": "http://www.acm.org/",
+      "summary": "Association for Computing Machinery at Manoa",
+    }
+  ],
+  
+  
+  
+  
+  
   "work": [
     {
       "company": "Curry House",
