@@ -71,10 +71,7 @@
       ]
     }
   ],
-  
-  
-  
-    "Clubs": [
+  "Clubs": [
     {
       "organization": "UHM Greyhats",
       "website": "https://github.com/uhmgreyhats",
@@ -90,11 +87,6 @@
       "summary": "Association for Computing Machinery at Manoa",
     }
   ],
-  
-  
-  
-  
-  
   "work": [
     {
       "company": "Curry House",
