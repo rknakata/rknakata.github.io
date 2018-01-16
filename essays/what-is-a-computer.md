@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: What is a computer?
+# All dates must be YYYY-MM-DD format!
+date: 2017-08-28
+labels:
+  - ICS 222
+---
+
 Ryan Nakata 
 Professor Dusko Pavlovic
 ICS 222
