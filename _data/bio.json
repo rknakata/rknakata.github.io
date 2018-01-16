@@ -47,12 +47,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Java",
-        "Ruby",
         "C",
         "C++",
         "Command Line",
-        "Git/GitHub"
+        "Git/GitHub",
+        "Java",
+        "Javascript"
       ]
     },
     {
@@ -68,7 +68,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2019)",
+      "area": "Computer Science (expected Fall, 2019)",
       "studyType": "B.A.",
       "startDate": "2014-08-25",
       "endDate": "Present",
