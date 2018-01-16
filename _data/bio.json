@@ -119,9 +119,18 @@
     },
     {
       "organization": "ACM Manoa",
-      "website": "http://www.acm.org/",
+      "website": "https://www.acm.org/",
       "position": "Member",
       "summary": "Association for Computing Machinery at Manoa",
+    },
+    {
+      "organization": "VirtualRealityManoa",
+      "website": "https://github.com/VirtualRealityManoa",
+      "position": "Member",
+      "summary": "Work with a team to develop a simple VR game",
+      "highlights": [
+        "Working with a group of people that love VR as much as I do"
+      ]
     }
   ],
   "awards": [
