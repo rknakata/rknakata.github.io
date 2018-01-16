@@ -109,6 +109,7 @@
     {
       "organization": "UHM Greyhats",
       "website": "https://github.com/uhmgreyhats",
+      "position": "Member",
       "startDate": "2017-01-01",
       "endDate": "Present",
       "highlights": [
@@ -119,6 +120,7 @@
     {
       "organization": "ACM Manoa",
       "website": "http://www.acm.org/",
+      "summary": "Association for Computing Machinery",
     }
   ],
   "awards": [
