@@ -96,11 +96,9 @@
 "volunteer": [
     {
       "organization": "UHM Greyhats",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "",
+      "website": "https://github.com/uhmgreyhats",
       "startDate": "2017-01-01",
       "endDate": "Present",
-      "summary": "",
       "highlights": [
         "Cover topics about current and past cyber security attacks",
         "Converse with other students that share the same interests"
@@ -109,15 +107,6 @@
     {
       "organization": "ACM Manoa",
       "website": "http://www.acm.org/",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
     }
   ],
   "awards": [
