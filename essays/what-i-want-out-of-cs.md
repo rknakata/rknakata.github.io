@@ -1,12 +1,14 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: What I want out of CS
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2018-01-16
 labels:
+  - goals
   - Software Engineering
   - Learning
+  - Computer Science
 ---
 
 <img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
