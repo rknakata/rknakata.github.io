@@ -10,16 +10,15 @@ labels:
   - Learning
   - Computer Science
 ---
+<img class="ui tiny left circular floated image" src="../images/90s-kid.jpg">
 
-<img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
+Growing up as a 90s kid I've always been surrounded by computers. I can remember interacting with computers from the beggining. Although I did not recieve my first computer till I was in about the 4th grade I always remember going to CompUSA with my dad. My first computer that I recieved was a Macbook and I remember just downloading youtube videos. I couldnt believe that you could watch movies on a battery powered machine instead of watching my brother and sister's hand me down VHS anime on our 100lb CRT TV I was streaming anime off the internet through the air no tapes required.
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+<img class="ui tiny left circular floated image" src="../images/tf2-hat.jpg">
 
-<img class="ui tiny left circular floated image" src="../images/design-technology.jpg">
-
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+Throughout highschool I became an avid PC gamer. I remember playing TF2 and trading virtual items to try to make money. This is where I was first introduced bots. Players would setup Bot accounts that allowed them to automatically make trades with others for a profit I couldn't believe they just made money by doing nothing! After a few google searches I found people had shared their code on a site called github but I didn't know what any of it meant. I had kept this in mind until I entered college and declared my major in CS.
 
 <img class="ui tiny left circular floated image" src="../images/software-code.jpg">
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+I am now taking my first software engineering class where I hope to better my understanding of coding. What I would love to take from this class is to be able to make my own tools. Whether it be a Item trading bot or a security tool that I can apply to my other classes. I want to code for myself. I feel inorder for me to become proficient at coding I have to learn to solve my own problems by making tools for myself.
 
