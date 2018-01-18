@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/423final-4.jpg
-title: Micromouse
+title: Power Replay Attack in Electronic Door Locks
 permalink: projects/power-replay-attack-in-electronic-door-locks
 date: 2017
 labels:
