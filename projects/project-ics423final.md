@@ -2,15 +2,15 @@
 layout: project
 type: project
 published: true
-image: images/micromouse.jpg
+image: images/423final-4.jpg
 title: Micromouse
-permalink: projects/micromouse
-date: 2015
+permalink: projects/power-replay-attack-in-electronic-door-locks
+date: 2017
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Security
+  - Doorlock
+  - ICS 423
+summary: 
 ---
 
 <div class="ui small rounded images">
@@ -20,13 +20,19 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/423final-4.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+In ICS 423(Cryptography) we are assigned a final project where we teach the class about a security related issue. We were given a list of research papers to choose from and I ended up choosing Power Replay Attacks in Electronic Doorlocks. Ever since I went to Defcon 25 I've found myself obsessed with picking locks and I felt that this was another method of opening doors that I never heard of. We were given free reign over what we wanted to do for the project. I believe in security in layers and I feel my home follows that layout. I have on my door an electronic door lock which after reading the research paper I found was also vulnerable to the same attacks. After discovering this fact I couldn't help but open up my lock and tinkering with it. I found that unlike the locks in the research paper my lock used a small motor that turned a small corscrew which would then engage the lock. In the end I just ended up using breadboard icsp female wires to connect it to a breadboard. I then powered on the device and measured the voltages across the different leads with a volt meter. I found out that the motor used just under 4 volts. Now that I knew how much voltage I would need I had to find a power source. My door lock was powered by 4 AA batteries. Each AA battery is about 1.5 volts. 3 AA batteries in series are about 4.5 volts which is basically the voltage that I would need to power my motor. I a ended up cutting a soda can into a square and soldering a wire to each of them and putting them between three batteries. Now I needed a switch to actually engage my lock. In the research paper they decided on using a bluetooth enabled microcontroller. I instead found my own method of rewiring the backup power leads at the bottom of the lock into a switch. After testing it out of the bread board I put it together and it worked. Since I was going to present it infront of my class I wanted to make a stand for my doorlock. Looking up store displays for doornoobs turned out to be a nightmare as I found myself wether I really wanted to pay 75 dollars for a display. I found myself making a few trips to lowes and made a display stand for my project instead for about 10 dollars. In the process of making the stand I got to learn how the mechanisms on door locks work and showcase my maker skills. I was always into picking locks but never knew what happened outside of the pin tumbler and cutting and drilling the holes really gave me a deeper understanding.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+I feel this project was a perfect way to showcase my passions and I found myself really enjoying the process of making this project from hacking my door lock to making a display.s
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+
 
 Here is a copy of my final presentation as a <a href="../files/iCS423FinalPresentationPowerReplayAttacksRyanNakata.pdf">pdf</a>.
 
+Here is a link to the research paper I was assigned. https://www.ieee-security.org/TC/SP2014/posters/OHSEO.pdf
 
+Please check out the original author of the research paper.
+Poster: Power Replay Attack in Electronic Door Locks
+Seongyeol Oh, Joon-sung Yang, Andrea Bianchi, Hyoungshick Kim
+College of Information and Communication Engineering Sungkyunkwan University Suwon, Republic of Korea
+Email: {seongyeol, js.yang, abianchi, hyoung}@skku.edu
 
