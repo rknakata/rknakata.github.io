@@ -10,7 +10,7 @@ labels:
   - Learning
   - Computer Science
 ---
-<img class="ui tiny left circular floated image" src="../images/90s-kid.png">
+<img class="ui tiny left circular floated image" src="../images/90s-kid.jpg">
 
 Growing up as a 90s kid I've always been surrounded by computers. I can remember interacting with computers from the beggining. Although I did not recieve my first computer till I was in about the 4th grade I always remember going to CompUSA with my dad. My first computer that I recieved was a Macbook and I remember just downloading youtube videos. I couldnt believe that you could watch movies on a battery powered machine instead of watching my brother and sister's hand me down VHS anime on our 100lb CRT TV I was streaming anime off the internet through the air no tapes required.
 
