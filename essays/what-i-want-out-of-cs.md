@@ -12,7 +12,7 @@ labels:
 ---
 <img class="ui tiny left circular floated image" src="../images/90s-kid.jpg">
 
-Growing up as a 90s kid, I've always been surrounded by computers. I can remember interacting with computers from the beginning. Although I did not receive my first computer till I was in about the 4th grade, I always remember going to CompUSA with my dad. My first computer that I received was a Macbook and I remember just downloading youtube videos. I couldn't believe that you could watch movies on a battery powered machine instead of watching my brother's and sister's hand me down VHS anime on our 100lb CRT TV. I was streaming anime off the internet through the air with no tapes required.
+Growing up as a 90s kid, I've always been surrounded by computers. I can remember interacting with computers from the beginning. Although I did not receive my first computer till I was in about the 4th grade, I always remember going to CompUSA with my dad. My first computer that I received was a Macbook and I remember just downloading youtube videos. I couldn't believe that you could watch movies on a battery powered machine. Instead of watching my brother's and sister's hand me down VHS anime on our 100lb CRT TV, I was streaming anime off the internet through the air with no tapes required.
 
 <img class="ui tiny left circular floated image" src="../images/tf2-hat.jpg">
 
@@ -20,6 +20,5 @@ Throughout high school, I became an avid PC gamer. I remember playing TF2 and tr
 
 <img class="ui tiny left circular floated image" src="../images/software-code.jpg">
 
-I am now taking my first software engineering class where I hope to better my understanding of coding. What I would love to take from this class is to be able to make my own tools. Whether it be an Item trading bot or a security tool that I can apply to my other classes, I want to code for myself. I feel in order for me to become proficient at coding,ccccccgekflnbldhgkhihhglduuirtehttdvvdtdkbgf
-I have to learn to solve my own problems by making tools for myself.
+I am now taking my first software engineering class where I hope to better my understanding of coding. What I would love to take from this class is to be able to make my own tools. Whether it be an Item trading bot or a security tool that I can apply to my other classes, I want to code for myself. I feel in order for me to become proficient at coding, I have to learn to solve my own problems by making tools for myself. 
 
