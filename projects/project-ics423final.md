@@ -26,5 +26,7 @@ For this project, I was the lead programmer who was responsible for programming 
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
+Here is a copy of my final presentation as a pdf.<a href="../images/iCS423FinalPresentationPowerReplayAttacksRyan Nakata.pdf">download</a>
+
 
 
