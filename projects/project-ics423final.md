@@ -28,7 +28,7 @@ I feel this project was a perfect way to showcase my passions and I found myself
 
 Here is a copy of my final presentation as a <a href="../files/iCS423FinalPresentationPowerReplayAttacksRyanNakata.pdf">pdf</a>.
 
-Here is a link to the research paper I was assigned. https://www.ieee-security.org/TC/SP2014/posters/OHSEO.pdf
+Here is a link to the research paper I was assigned. <a href="https://www.ieee-security.org/TC/SP2014/posters/OHSEO.pdf">https://www.ieee-security.org/TC/SP2014/posters/OHSEO.pdf</a>
 
 Please check out the original author of the research paper.
 Poster: Power Replay Attack in Electronic Door Locks
