@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-published: false
-image: images/vacay-square.png
-title: Vacay
+published: true
+image: images/homelab-1.png
+title: Ultimate home network
 permalink: projects/vacay
-date: 2015
+date: 2017
 labels:
   - pfsense
   - open vpn
