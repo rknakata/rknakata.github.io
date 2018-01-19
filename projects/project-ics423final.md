@@ -10,7 +10,7 @@ labels:
   - Security
   - Doorlock
   - ICS 423
-summary: 
+summary: another way to open doors besides picking the lock?
 ---
 
 <div class="ui small rounded images">
