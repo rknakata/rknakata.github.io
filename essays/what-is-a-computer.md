@@ -7,12 +7,6 @@ date: 2017-08-28
 labels:
   - ICS 222
 ---
-
-Ryan Nakata 
-Professor Dusko Pavlovic
-ICS 222
-28 August 2017
-
 What Is a Computer?
 
   What defines what is a computer and what does a computer do?  The computer is a recent term that was coined in order to name a new device that we have made within the last 100 years.  How has computer-like devices changed over the years?  At what point do we stop calling them computers and start referring to them as sentient beings?  These questions were presented by Alan Turing.  Alan Turing was one of the leading computer scientists of the 20th century who defined what a computer is and how it was to be perceived.  Alan wanted to make a vessel in which you could store your mind.  Alan believed that just like the neurons in our brain that are electrical pulses, we could simulate this on a silicon die.  He believed that carbon lifeforms could be emulated by a silicon vessel and that one could one day be able to outlive his biological body, therefore extending his life using a computer.
