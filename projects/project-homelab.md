@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/homelab-1.png
+image: images/homelab-1-500x500.png
 title: Ultimate home network
 permalink: projects/vacay
 date: 2017
