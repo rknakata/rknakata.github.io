@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/423final-1.jpg
+image: images/423final-1-500x500.png
 title: Power Replay Attack in Electronic Door Locks
 permalink: projects/power-replay-attack-in-electronic-door-locks
 date: 2017
