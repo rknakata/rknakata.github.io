@@ -20,6 +20,6 @@ After taking my first security class I became obsessed with the idea of creating
  
 <img class="ui medium right floated rounded image" src="../images/homelab-2.jpg">
 
-Some of the applications that I am or currently have played with are pfsense, open vpn, esxi hyper visor, windows server 2016 and free nas. I enjoy having my own home lab because I can do whatever I want with it and I get to make my room feel like an oven. Currently for my 425 class we are playing with snort which I have now installed on pfsense. I feel having my own home lab allows me to experiment in a controlled enviroment by just moving a few cables on my patch panel I can be disconnected fromt he internet.
+Some of the applications that I am or currently have played with are pfsense, open vpn, esxi hyper visor, windows server 2016 and free nas. I enjoy having my own home lab because I can do whatever I want with it and I get to make my room feel like an oven. Currently for my 425 class we are playing with snort which I have now installed on pfsense. I feel having my own home lab allows me to experiment in a controlled enviroment by just moving a few cables on my patch panel I can be disconnected fromt the internet.
 
 Here is an excellent video of a guy from r/homelab giving a tour of his homelab. <a href = "https://www.youtube.com/watch?v=nRmNSJAuBmg">link</a>
