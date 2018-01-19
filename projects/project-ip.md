@@ -9,7 +9,7 @@ date: 2016
 labels:
   - Ruby
   - Console app
-summary: appends location data to a list of IPs
+summary: Append location data to a list of IPs
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/ip-locationProject.png">
