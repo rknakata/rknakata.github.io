@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/project-ip.png
+image: images/ip-locationProject.png
 title: IP to location Console Application
 permalink: projects/ip-location
 date: 2016
