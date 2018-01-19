@@ -7,19 +7,19 @@ title: Vacay
 permalink: projects/vacay
 date: 2015
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - pfsense
+  - open vpn
+  - esxi
+  - free nas
+summary: Home lab experimenting
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+After taking my first security class I became obsessed with the idea of creating the ultimate home network. Something that was talked about in my class was pfsense and vlan tagging. For about the past year I have been accumulating cheap server parts off the internet and trying to work towards the ultimate home network/home lab. At one point I purchased 3 dell servers for about 20 dollars a piece off craigslist so I went out and bought a rack for my servers. Having a rack was an interesting experience because it forced me to make around 50 ethernet cables, calculate electricity usage/cost and it got me addicted r/homelab.
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+
+Some of the applications that I am or currently have played with are pfsense, open vpn, esxi hyper visor, windows server 2016 and free nas. I enjoy having my own home lab because I can do whatever I want with it and I get to make my room feel like an oven. Currently for my 425 class we are playing with snort which I have now installed on pfsense. I feel having my own home lab allows me to experiment in a controlled enviroment by just moving a few cables on my patch panel I can be disconnected fromt he internet.
+
+Here is a cool vid of a guy from r/homelab giving a tour of his homelab. <a href = "https://www.youtube.com/watch?v=nRmNSJAuBmg">link</a>
