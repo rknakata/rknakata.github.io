@@ -16,4 +16,4 @@ summary: Append location data to a list of IPs
 
 I made this project to generate a list of cities so I could find out where people were connecting to my website from. This was one of the first coding projects that I made for fun and not for school. I wanted to write it in Ruby because I was reading a book called Learn Ruby the hard way. It makes use of arg c and v and has different modes that can be changed by user input.
 
-Implemented using <a href=http://ipinfo.io/>ipinfo API</a>
+Implemented using <a href="http://ipinfo.io/">ipinfo API</a>
