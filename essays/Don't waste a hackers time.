@@ -1,0 +1,28 @@
+---
+layout: essay
+type: essay
+title: Don't waste a hackers time
+# All dates must be YYYY-MM-DD format!
+date: 2017-01-25
+labels:
+  - ICS 314
+  - Smart Questions
+---
+
+Don't waste a hackers time!
+
+  After reading an article titled "How to ask questions the smart way" I became interested in seeing how others in the community asked questions. Being a CS student I find myself often looking up questions on google and the top hit usually is stack overflow. I never really thought about asking questions, because I usually find what I am looking for, but this article has made me aware of proper etiquite that I would not have normally have thought about when asking a question. After searching through stack overflows recent questions I found that the questions that were marked answered followed the “object - deviation” form. I never really thought about how you want to make the person reading your post feel as if they are guiding you to the answer and not just straight up asking for a solution. Explaining what you are doing and what you tried makes your question more intuitive for your user and allows themself to engage themself in the solution solving process rather then just giving redundant answers.
+
+  Smart Question(https://stackoverflow.com/questions/48270127/can-a-1-a-2-a-3-ever-evaluate-to-true)
+   This question was the top trending question on stack overflow with over 300k views. 
+  
+	Bad Question(https://stackoverflow.com/questions/48456005/how-can-i-connect-a-mic-to-my-laptop)
+
+ 
+  
+  
+  Sources:
+  Inspiration(http://www.catb.org/esr/faqs/smart-questions.html)
+  Smart Question(https://stackoverflow.com/questions/48270127/can-a-1-a-2-a-3-ever-evaluate-to-true)
+	Bad Question(https://stackoverflow.com/questions/48456005/how-can-i-connect-a-mic-to-my-laptop)
+
