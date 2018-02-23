@@ -16,8 +16,8 @@ Over the past two weeks my software engineering class has been focusing on websi
 
 <br>
 <h1>Original Webpage</h1>
-<img src="../images/originalcorsair.png">
+<img src="../images/originalcorsair.png" style="height: auto; width: 700px">
 <br>
 <h1>Semmantic Webpage</h1>
-<img src="../images/RyanSemmantecUI.png">
+<img src="../images/RyanSemmantecUI.png" style="height: auto; width: 700px">
 <br>
