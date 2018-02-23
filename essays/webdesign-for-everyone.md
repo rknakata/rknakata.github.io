@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Web design for everyone.
+title: Web design for everyone
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-22
 labels:
@@ -18,6 +18,6 @@ Over the past two weeks my software engineering class has been focusing on websi
 <h1>Original Webpage</h1>
 <img src="../images/originalcorsair.png" style="height: auto; width: 700px">
 <br>
-<h1>Semmantic Webpage</h1>
-<img src="../images/RyanSemmantecUI.png" style="height: auto; width: 700px">
+<h1>Semantic Webpage</h1>
+<img src="../images/RyanSemantecUI.png" style="height: auto; width: 700px">
 <br>
